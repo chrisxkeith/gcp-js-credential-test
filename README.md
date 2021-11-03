@@ -1,5 +1,4 @@
 # gcp-js-credential-test
-*Steps still in-progress*
 - Create a GCP project.
 - Add a service account to it.
 - Enable Cloud Storage and GMail API's for it.
