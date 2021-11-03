@@ -1,4 +1,5 @@
 # gcp-js-credential-test
+*Steps still in-progress*
 - Create a GCP project.
 - Add a service account to it.
 - Enable Cloud Storage and GMail API's for it.
@@ -11,5 +12,6 @@ cd <parent-directory-of-your-repos>
 git clone https://github.com/chrisxkeith/gcp-js-credential-test.git
 cd gcp-js-credential-test
 npm install @google-cloud/storage
+npm install googleapis
 node .\test.js
 ```
