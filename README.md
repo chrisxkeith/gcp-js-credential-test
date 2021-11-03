@@ -13,5 +13,5 @@ git clone https://github.com/chrisxkeith/gcp-js-credential-test.git
 cd gcp-js-credential-test
 npm install @google-cloud/storage
 npm install googleapis
-node .\test.js
+node ./test.js
 ```
